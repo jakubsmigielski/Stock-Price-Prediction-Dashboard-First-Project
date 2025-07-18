@@ -3,7 +3,7 @@
 **First Interactive Data Science & Machine Learning Project**  
 Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Google (GOOG) with Python, Streamlit, Pandas and scikit-learn.
 
-![Dashboard Demo](plots/images/Stock_Price_Prediction_Dashboardd.gif) 
+![Dashboard Demo](demo_project_dashboard.gif)
 
 ---
 
