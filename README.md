@@ -37,10 +37,10 @@ data/
     - **Linear Regression** model (scikit-learn) to predict the next day’s closing price
     - Model evaluation: MAE (Mean Absolute Error) & R² Score
     - Model performance comparison (bar charts & metrics table)
-    - Prediction plots (actual vs. predicted price)
+    - Prediction plots 
 - **Financial metrics:**  
-    - Sharpe Ratio (risk-adjusted return)
-    - Maximum Drawdown (risk metric)
+    - Sharpe Ratio 
+    - Maximum Drawdown 
 
 ### **Interactive Dashboard (Streamlit)**
 - Company selector (AAPL, TSLA, GOOG, ALL)
@@ -160,9 +160,8 @@ Below some example charts
 ## About
 
 **Author:** [Jakub](https://github.com/jakubsmigielski)  
-**Purpose:** Portfolio / educational project (data science & ML basics)  
+**Purpose:** Portfolio / educational project 
 **Note:** This project is for educational purposes only and **not** financial advice.
 
 ---
 
-Have fun exploring stock data and predictions!
