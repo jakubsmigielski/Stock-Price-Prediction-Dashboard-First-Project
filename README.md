@@ -6,7 +6,6 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 ![Dashboard Demo](demo_project_dashboard.gif)
 
 
-````
 ## What’s Inside?
 
 ### **Data Analysis & Machine Learning**
@@ -131,4 +130,5 @@ Below some example charts
 **This project is for educational purposes only and **not** financial advice.**
 
 ---
+
 
