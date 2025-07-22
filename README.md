@@ -5,7 +5,7 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 
 ![Dashboard Demo](demo_project_dashboard.gif)
 
-
+---
 ## What’s Inside?
 
 ### **Data Analysis & Machine Learning**
@@ -32,7 +32,7 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 - Comparison across all companies (model metrics, MAE, R², returns)
 - Ready for screenshots or GIF recording 
 
----
+
 
 ## How to Run
 
@@ -59,44 +59,43 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 
 Below are sample visualizations
 
----
 
 ### Dashboard Demo
 ![Dashboard Demo](demo_project_dashboard.gif)
 
 *Preview of the interactive Streamlit dashboard. You can analyze different stocks, model predictions, performance metrics, and risk indicators in one place.*
 
----
+
 Below some example charts
 ### Apple Stock Price (AAPL)
 ![AAPL Stock Price](APPL_STOCK.png)
 
 
----
+
 
 ### Google Stock Price (GOOG)
 ![GOOG Stock Price](GOOG_STOCK_PRICE.png)
 
 
----
+
 
 ### Model Performance
 ![Model Performance](MODEL_PERFORMANCE.png)
 
 
----
+
 
 ### Rolling Volatility
 ![Rolling Volatility](ROLLING_VOLLATILITY.png)
 
 
----
+
 
 ### Sharpe Ratio
 ![Sharpe Ratio](SHARP_RATIO.png)
 
 
----
+
 
 
 ---
