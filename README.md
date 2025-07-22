@@ -5,25 +5,7 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 
 ![Dashboard Demo](demo_project_dashboard.gif)
 
----
 
-## Project Structure
-````
-data/
-├── AAPL.csv
-├── TSLA.csv
-├── GOOG.csv
-├── images/
-├── plots/
-├── results/
-│ └── metrics.csv
-├── fetch_data.py
-├── predict_aapl.py
-├── predict_all.py
-├── plot_all_predictions.py
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
 ````
 ## What’s Inside?
 
@@ -61,31 +43,16 @@ data/
     cd Prediction_Dashboard_FirstProject
     ```
 
-2. **(Optional) Create a virtual environment:**
-    ```bash
-    python -m venv venv
-    # Windows:
-    venv\Scripts\activate
-    # Mac/Linux:
-    source venv/bin/activate
-    ```
-
-3. **Install all dependencies:**
+2. **Install all dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **(Optional) Download or update data:**
-    ```bash
-    python fetch_data.py
-    ```
-
-5. **Run the Streamlit dashboard:**
+3. **Run the Streamlit dashboard:**
     ```bash
     streamlit run streamlit_app.py
     ```
 
-6. The dashboard will open in your browser.
 
 ---
 
@@ -160,8 +127,8 @@ Below some example charts
 ## About
 
 **Author:** [Jakub](https://github.com/jakubsmigielski)  
-**Purpose:** Portfolio / educational project 
-**Note:** This project is for educational purposes only and **not** financial advice.
+**educational project** 
+**This project is for educational purposes only and **not** financial advice.**
 
 ---
 
