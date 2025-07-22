@@ -60,7 +60,7 @@ Predicting and visualizing stock prices for Apple (AAPL), Tesla (TSLA), and Goog
 Below are sample visualizations
 
 ---
-
+```
 ### Dashboard Demo
 ![Dashboard Demo](demo_project_dashboard.gif)
 *Preview of the interactive Streamlit dashboard. You can analyze different stocks, model predictions, performance metrics, and risk indicators in one place.*
@@ -94,7 +94,7 @@ Below some example charts
 ### Sharpe Ratio
 ![Sharpe Ratio](SHARP_RATIO.png)
 
-
+```
 ---
 
 
@@ -126,8 +126,8 @@ Below some example charts
 ## About
 
 **Author:** [Jakub](https://github.com/jakubsmigielski)  
-**educational project** 
-**This project is for educational purposes only and **not** financial advice.**
+**Educational project,** 
+**this project is for educational purposes only and **not** financial advice.**
 
 ---
 
